@@ -138,8 +138,8 @@ _MAXHEADERS = 100
 
 # the patterns for both name and value are more lenient than RFC
 # definitions to allow for backwards compatibility
-_is_legal_header_name = re.compile(rb'[^:\s][^:\r\n]*').fullmatch
-_is_illegal_header_value = re.compile(rb'\n(?![ \t])|\r(?![ \t\n])').search
+# _is_legal_header_name = re.compile(rb'[^:\s][^:\r\n]*').fullmatch
+# _is_illegal_header_value = re.compile(rb'\n(?![ \t])|\r(?![ \t\n])').search
 
 # We always set the Content-Length header for these methods because some
 # servers will otherwise respond with a 411
