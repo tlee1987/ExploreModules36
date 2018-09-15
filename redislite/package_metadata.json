@@ -1,0 +1,15 @@
+{
+    "redis_bin": "build/bdist.linux-x86_64/wheel/redislite/bin/redis-server", 
+    "version": "3.2.311", 
+    "git_version": "3.2.311", 
+    "git_origin": "git@github.com:yahoo/redislite.git", 
+    "redis_server": {
+        "sha": "00000000:0", 
+        "malloc": "libc", 
+        "bits": "64", 
+        "build": "485d2c8ec8b240d8", 
+        "v": "3.2.6"
+    }, 
+    "git_hash": "7e9a151b9d86fd2af42a262696377060c6648652", 
+    "git_branch": "master"
+}
