@@ -1,5 +1,9 @@
 eclipse.preferences.version=1
 encoding//bumpversion/__init__.py=utf-8
+encoding//gunicorn/config.py=utf-8
+encoding//gunicorn/errors.py=utf-8
+encoding//oss2/auth.py=utf-8
+encoding//oss2/defaults.py=utf-8
 encoding//oss2/iterators.py=utf-8
 encoding//oss2/models.py=utf-8
 encoding//py_zipkin/zipkin.py=utf-8
