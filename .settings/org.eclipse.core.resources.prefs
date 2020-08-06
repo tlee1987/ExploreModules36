@@ -1,5 +1,11 @@
 eclipse.preferences.version=1
+encoding//Normal/hotqueue.py=utf-8
+encoding//arrow/__init__.py=utf-8
+encoding//arrow/api.py=utf-8
+encoding//arrow/arrow.py=utf-8
+encoding//arrow/factory.py=utf-8
 encoding//bumpversion/__init__.py=utf-8
+encoding//fc2/client.py=utf-8
 encoding//gunicorn/config.py=utf-8
 encoding//gunicorn/errors.py=utf-8
 encoding//oss2/auth.py=utf-8
